@@ -1,1 +1,2 @@
-export * from './alert.component';
+export * from './account.service';
+export * from './alert.service';
